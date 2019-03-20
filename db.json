@@ -1,22 +1,24 @@
-[
-    {
-        "ime": "Dummy",
-        "cena": "10",
-        "kategorija": "ena"
-    },
-    {
-        "ime": "Another dummy",
-        "cena": "20",
-        "kategorija": "ena"
-    },
-    {
-        "ime": "Another another dummy",
-        "cena": "50",
-        "kategorija": "ena"
-    },
-    {
-        "ime": "Yet another dummy",
-        "cena": "24",
-        "kategorija": "dva"
-    }
-]
+{
+    "produkti": [
+        {
+            "ime": "Dummy",
+            "cena": "10",
+            "kategorija": "ena"
+        },
+        {
+            "ime": "Another dummy",
+            "cena": "20",
+            "kategorija": "ena"
+        },
+        {
+            "ime": "Another another dummy",
+            "cena": "50",
+            "kategorija": "ena"
+        },
+        {
+            "ime": "Yet another dummy",
+            "cena": "24",
+            "kategorija": "dva"
+        }
+    ]
+  }
