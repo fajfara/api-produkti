@@ -19,6 +19,26 @@
             "ime": "Yet another dummy",
             "cena": "24",
             "kategorija": "dva"
+        },
+        {
+            "ime": "Cheap dummy",
+            "cena": "1",
+            "kategorija": "sto"
+        },
+        {
+            "ime": "Expensive dummy",
+            "cena": "500",
+            "kategorija": "ena"
+        },
+        {
+            "ime": "Old dummy",
+            "cena": "5",
+            "kategorija": "ena"
+        },
+        {
+            "ime": "Space dummy",
+            "cena": "66",
+            "kategorija": "pet"
         }
     ]
   }
